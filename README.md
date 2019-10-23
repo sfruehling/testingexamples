@@ -14,6 +14,9 @@ Java, Javascript, Spring, JUnit4 / JUnit5 TestNG
 		○ MockMvC
 		○ JPA Tests
 		○ SecurityTests
+		* Test RedirectAttributes
+		* Test FormValidation
+		* Test ModelAttributes
 	• Javascript
 	• Infrastruktur-Tests(z.B. ansible)
 	• Resilience-Tests
