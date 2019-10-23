@@ -2,15 +2,15 @@
 
 Java, Javascript, Spring, JUnit4 / JUnit5 TestNG
 
-	• RestTemplates
-	• SOAP?
 	• UnitTests:
 		○ MutationTests
 		○ Umgang mit Datums
 		○ Mocking
 		
 	• SpringTesting Möglichkeiten
-		○ MockBean
+		○ RestTemplates 
+		* SOAP?
+		* MockBean
 		○ MockMvC
 		○ JPA Tests
 		○ SecurityTests
