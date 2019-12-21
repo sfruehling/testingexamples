@@ -8,7 +8,7 @@ Java, Javascript, Spring, JUnit4 / JUnit5 TestNG
 		○ Mocking
 		
 	• SpringTesting Möglichkeiten
-		○ RestTemplates 
+		○ RestTemplates (see https://github.com/eugenp/tutorials) 
 		* SOAP?
 		* MockBean
 		○ MockMvC
